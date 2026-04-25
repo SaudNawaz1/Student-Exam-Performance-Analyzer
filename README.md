@@ -67,6 +67,6 @@ This project was developed as part of learning **data analysis fundamentals usin
 * Build a simple user interface
 
 ## Note:
-This is a bigginer friendly project aimed at demonstrating core programing and data analysis skills.
+
 This is a beginner-friendly project aimed at demonstrating core programming and data analysis skills.
 
